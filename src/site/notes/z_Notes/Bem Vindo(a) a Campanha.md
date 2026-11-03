@@ -3,7 +3,6 @@
 ---
 
 # Bem-vindo à nossa campanha!
-
 Este é o arquivo de conhecimento
 da nossa aventura.
 
