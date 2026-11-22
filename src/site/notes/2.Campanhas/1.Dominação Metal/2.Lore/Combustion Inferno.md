@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-campanhas/1-dominacao-metal/2-lore/combustion-inferno/","dg-note-properties":{}}
 ---
 
->Combustion Inferno é um escudo infernal dado a [[Kaiser\|Kaiser]] por Kai
+>Combustion Inferno é um escudo infernal dado a [[2.Campanhas/1.Dominação Metal/8.Party/Kaiser\|Kaiser]] por Kai
 
 Se trata de um escudo de metal, quando empunhado chamas infernais ardem do escudo (as chamas nao afetam o usuario mas afetam qualquer outra criatura), o escudo garante +2 de ca. Ataques desarmados no escudo dão 1d4 de dano de fogo
 

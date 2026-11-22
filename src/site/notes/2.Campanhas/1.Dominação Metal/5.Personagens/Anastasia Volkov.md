@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/2-campanhas/1-dominacao-metal/5-personagens/anastasia-volkov/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-campanhas/1-dominacao-metal/5-personagens/anastasia-volkov/","dg-note-properties":{"tipo":"personagem","categoria":"npc","relevante":true,"campanha":"Dominação Metal","status":"vivo","resumo":"Filha de [[Vladislav Volkov]]"}}
 ---
+
 
 > Filha de [[2.Campanhas/1.Dominação Metal/5.Personagens/Vladislav Volkov\|Vladislav Volkov]]
 

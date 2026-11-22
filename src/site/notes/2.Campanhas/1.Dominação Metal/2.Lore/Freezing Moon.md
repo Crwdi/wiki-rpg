@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-campanhas/1-dominacao-metal/2-lore/freezing-moon/","dg-note-properties":{}}
 ---
 
-> Freezing Moon é uma espada magica dada a [[Kaiser\|Kaiser]] por Kai
+> Freezing Moon é uma espada magica dada a [[2.Campanhas/1.Dominação Metal/8.Party/Kaiser\|Kaiser]] por Kai
 
 Freezing Moon: consiste em uma espada +2 demoniaca, ela tem a aparencia toda congelada e é uma espada longa, ela da 1d10 de dano congelante com 2 mãos e 1d8 com 1, durante a noite a lamina cresce e da 1d12 de dano
 
