@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/1-phantyr/3-mechanics/2-itens/lifewell-tattoo/","dg-note-properties":{}}
+---
+
+
+[D&D 5e - Tasha’s Cauldron of Everything, p.130](/img/user/z_Livros/D&D%205e%20-%20Tasha%E2%80%99s%20Cauldron%20of%20Everything.pdf)
+Produced by a special needle, this magic tattoo fea tures symbols of life and rebirth. Tattoo Attunement. To attune to this item, you hold the needle to your skin where you want the tat too to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin. If your attunement to the tattoo ends, the tattoo vanishes, and the needle reappears in your space. Necrotic Resistance. You have resistance to ne crotic damage. Life Ward. When you would be reduced to 0 hit points, you drop to 1 hit point instead. Once used, this property can't be used again until the next dawn.
