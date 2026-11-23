@@ -3,7 +3,7 @@
 ---
 
 
-> Filha de [[2.Campanhas/1.Dominação Metal/5.Personagens/Vladislav Volkov\|Vladislav Volkov]]
+> Filha de [[2.Campanhas/1.Dominação Metal/5.Personagens/Vladislav Volkov\|2.Campanhas/1.Dominação Metal/5.Personagens/Vladislav Volkov]]
 
 # Aparencia
 misteriosa, ligada a ocultismo ou religião sombria, Beleza etérea e inquietante. Pele muito pálida, cabelos longos negros ou muito escuros. Usa vestidos fechados, com detalhes religiosos ou antigos. Olhos profundos, quase “vazios”, como se enxergasse além.

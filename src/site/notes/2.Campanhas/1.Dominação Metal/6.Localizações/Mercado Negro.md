@@ -28,7 +28,7 @@ No caminho até [[1.Phantyr/1.Phantyr/3.Localizações/Silbener Wolf\|Silbener W
 | Cogumelos Magicos Mago Louco                       | 200 PO      |
 | [[1.Phantyr/3.Mechanics/2. Itens/Immovable Dagger\|Immovable Dagger]]                               | 2000 PO     |
 | [[Portable Hole\|Portable Hole]]                                  | 6000 PO     |
-| [[z_Notes/Manto da Borboleta Matriarca\|Manto da Borboleta Matriarca]]                   | 8000 PO     |
+| [[1.Phantyr/3.Mechanics/2. Itens/Manto da Borboleta Matriarca 1\|Manto da Borboleta Matriarca 1]]                   | 8000 PO     |
 | [[Bag of Beans\|Bag of Beans]]                                   | 1000 PO     |
 | [[Cloak of the Manta Ray\|Cloak of the Manta Ray]]                         | 4000 PO     |
 | [[Cloak of the Bat\|Cloak of the Bat]]                               | 6000 PO     |

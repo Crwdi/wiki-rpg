@@ -6,7 +6,7 @@
 > Inspirada na Signet de DND
 
 ## Raça
-Signet é uma meio-naia meio-elfa que fugiu de [[Shadowfell\|Shadowfell]] quando tinha 112 anos de idade, ela acabou indo parar no [[z_Notes/Plano da Terra\|Plano da Terra]] sem querer e acabou permanecendo lá até os dias atuais
+Signet é uma meio-naia meio-elfa que fugiu de [[Shadowfell\|Shadowfell]] quando tinha 112 anos de idade, ela acabou indo parar no [[1.Phantyr/1.Phantyr/3.Localizações/Plano da Terra\|Plano da Terra]] sem querer e acabou permanecendo lá até os dias atuais
 
 ## Classe
 Uma bruxa que luta com magia de sangue, necessitando de sacrificios para ativar suas tatuagens, que saem do seu corpo e atacam.
