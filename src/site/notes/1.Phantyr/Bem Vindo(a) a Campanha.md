@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-phantyr/bem-vindo-a-a-campanha/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/1-phantyr/bem-vindo-a-a-campanha/","tags":[],"dg-note-properties":{}}
 ---
 
 # Bem-vindo à nossa campanha!
